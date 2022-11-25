@@ -1,0 +1,10 @@
+
+*.zip
+
+*.xlsx
+
+*.html
+
+*.csv
+
+*.ipynb_checkpoints

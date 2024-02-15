@@ -61,7 +61,8 @@ En résumé, le label encoding est adapté aux variables catégoriques ordonnée
 
 ![image](https://github.com/kevin-EK/P4-Anticipez-les-besoins-en-consommation-de-batiments/assets/69479292/724e1961-aa86-4c72-b0ef-bee8ad0a09b4)
 
-### Comparaison des modèles
+### Comparaison des modèles d'émissions de gaz à effet de serre
+
 ![image](https://github.com/kevin-EK/P4-Anticipez-les-besoins-en-consommation-de-batiments/assets/69479292/6332f99e-2664-4c70-bc0b-5048cdf40c2f)
 
 ![image](https://github.com/kevin-EK/P4-Anticipez-les-besoins-en-consommation-de-batiments/assets/69479292/647e82ef-2737-45d5-8eb2-d66619ad7e85)

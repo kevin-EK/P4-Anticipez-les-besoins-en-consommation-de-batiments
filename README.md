@@ -62,11 +62,27 @@ En résumé, le label encoding est adapté aux variables catégoriques ordonnée
 ![image](https://github.com/kevin-EK/P4-Anticipez-les-besoins-en-consommation-de-batiments/assets/69479292/724e1961-aa86-4c72-b0ef-bee8ad0a09b4)
 
 ### Comparaison des modèles d'émissions de gaz à effet de serre
-
-![image](https://github.com/kevin-EK/P4-Anticipez-les-besoins-en-consommation-de-batiments/assets/69479292/6332f99e-2664-4c70-bc0b-5048cdf40c2f)
+![image](https://github.com/kevin-EK/P4-Anticipez-les-besoins-en-consommation-de-batiments/assets/69479292/88a838da-017f-4707-9b10-2f585630c987)
 
 ![image](https://github.com/kevin-EK/P4-Anticipez-les-besoins-en-consommation-de-batiments/assets/69479292/647e82ef-2737-45d5-8eb2-d66619ad7e85)
 
 ![image](https://github.com/kevin-EK/P4-Anticipez-les-besoins-en-consommation-de-batiments/assets/69479292/b5a4a24b-c5c4-4752-b883-9464d2d237a9)
+
+![image](https://github.com/kevin-EK/P4-Anticipez-les-besoins-en-consommation-de-batiments/assets/69479292/95015647-bc13-424a-8765-86f0019e6748)
+
+### Comparaison des modèles de la consomation totale d'energie
+
+![image](https://github.com/kevin-EK/P4-Anticipez-les-besoins-en-consommation-de-batiments/assets/69479292/9a602593-4e39-4bb7-af95-fe659afab0fa)
+
+![image](https://github.com/kevin-EK/P4-Anticipez-les-besoins-en-consommation-de-batiments/assets/69479292/5398d89b-7f20-4825-a5c8-8cc0a396e108)
+
+![image](https://github.com/kevin-EK/P4-Anticipez-les-besoins-en-consommation-de-batiments/assets/69479292/331e17d2-ceb2-4d7b-afcf-5e535d33effc)
+
+![image](https://github.com/kevin-EK/P4-Anticipez-les-besoins-en-consommation-de-batiments/assets/69479292/27e829bc-ad86-4577-8ec4-b4fb1c711e5a)
+
+## V. Intérêt de l’ENERGY STAR Score
+
+![image](https://github.com/kevin-EK/P4-Anticipez-les-besoins-en-consommation-de-batiments/assets/69479292/456f8406-216e-44bf-8e17-2de5be933f81)
+![image](https://github.com/kevin-EK/P4-Anticipez-les-besoins-en-consommation-de-batiments/assets/69479292/da54e27d-5685-4195-964f-e5b420ac7a6b)
 
 
